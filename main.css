@@ -1,0 +1,27 @@
+
+
+h1{
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light";
+}
+
+
+
+.container{
+    width:330px;
+    height:335px;
+    background-color:#6E6D6D;
+    text-color:grey;}
+
+
+
+.buttons{
+    background-color:#F36E5D ;
+    width:100px;
+    height:100px;
+    margin: 5px;
+
+}
+
+.row{
+    display:inline-block;
+}
